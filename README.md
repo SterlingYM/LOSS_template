@@ -2,8 +2,6 @@
 
 minimum working template for LOSSPhotPypeline.
 
---------------------------------------------------
-
 ## Requirements
 
 - LOSSPhotPypeline
